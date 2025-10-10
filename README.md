@@ -281,7 +281,7 @@ Se encontrares bugs ou tiveres sugestões, abre um **issue** ou faz um pull requ
 
 ---
 
-h2> ⚠️ Aviso Legal e Responsabilidade de Uso</h2>
+<h2> ⚠️ Aviso Legal e Responsabilidade de Uso</h2>
 
 O uso deste ficheiro é da **inteira responsabilidade do utilizador**.  
 As frequências aqui indicadas são disponibilizadas **apenas para fins informativos e educativos**.
