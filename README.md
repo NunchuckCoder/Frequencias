@@ -9,6 +9,10 @@
 
 <p align="center">Este ficheiro apresenta uma compilação estruturada de frequências rádio destinadas à comunicação em situações de emergência. Abrange canais de uso livre, repetidores regionais e nacionais, bem como frequências simplex e marítimas, permitindo uma coordenação eficaz em todo o território português. Inclui ainda orientações técnicas e legais para garantir um uso responsável e eficiente das comunicações.</p>
 
+<p align="center">
+  <img src="https://github.com/NunchuckCoder/Frequencias/blob/main/cartoes.png?raw=true" />
+</p>
+
 ---
 
 <h2>📑 Grupos de frequências</h2>
