@@ -281,10 +281,15 @@ Se encontrares bugs ou tiveres sugestões, abre um **issue** ou faz um pull requ
 
 ---
 
-📧 **Nota:**  
-Se pretenderes obter o ficheiro `.csv` com todas as frequências prontas para importação em software de programação de rádios, envia um email a solicitar o mesmo.  
+h2> ⚠️ Aviso Legal e Responsabilidade de Uso</h2>
 
-⚠️ **Aviso Legal:**  
-Este ficheiro é legal apenas para uso em **receção**.  
-Transmissão é permitida **apenas em emergência vital**.  
-Amadores coordenam com a **Proteção Civil via RENER** em situações de calamidade.
+O uso deste ficheiro é da **inteira responsabilidade do utilizador**.  
+As frequências aqui indicadas são disponibilizadas **apenas para fins informativos e educativos**.
+
+📻 **Nota:**  
+Este ficheiro é legal para uso **em receção**, e **transmissão apenas em situação de emergência vital**, conforme o **Art.º 39.º do Decreto-Lei n.º 53/2009**.  
+A transmissão em outras circunstâncias requer **licença válida de rádio amador (Classe A ou B)**.  
+
+Em cenários de calamidade, **radioamadores licenciados** colaboram com a **Proteção Civil através da rede RENER**, em conformidade com as orientações da ANACOM e da ANEPC.
+
+---
