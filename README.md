@@ -275,7 +275,7 @@ Se encontrares bugs ou tiveres sugestões, abre um **issue** ou faz um pull requ
 
 <h2> 📬 Contato</h2>
 
-- Desenvolvido por **Mikey**  
+- Desenvolvido por **NunchuckCoder**  
 - **Email:** code.wish815@passmail.com
 - **GitHub:** [https://github.com/NunchuckCoder](https://github.com/NunchuckCoder)
 
