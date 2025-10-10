@@ -287,7 +287,7 @@ O uso deste ficheiro é da **inteira responsabilidade do utilizador**.
 As frequências aqui indicadas são disponibilizadas **apenas para fins informativos e educativos**.
 
 📻 **Nota:**  
-Este ficheiro é legal para uso **em receção**, e **transmissão apenas em situação de emergência vital**, conforme o **Art.º 39.º do Decreto-Lei n.º 53/2009**.  
+Este ficheiro é legal para uso **em receção**, e **transmissão apenas em situação de emergência vital**.  
 A transmissão em outras circunstâncias requer **licença válida de rádio amador (Classe A ou B)**.  
 
 Em cenários de calamidade, **radioamadores licenciados** colaboram com a **Proteção Civil através da rede RENER**, em conformidade com as orientações da ANACOM e da ANEPC.
