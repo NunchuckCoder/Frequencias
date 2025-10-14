@@ -248,14 +248,15 @@ Frequências simplex para comunicação direta sem repetidores, usadas quando os
 
 Canais marítimos VHF para uso em emergências, especialmente relevantes em áreas costeiras (ex.: inundações ou emergências marítimas). São canais padrão internacionais.
 
-| Nome         | RX (MHz) | TX (MHz) | CTCSS | Comentário                                                          |
-| ------------ | -------- | -------- | ----- | ------------------------------------------------------------------- |
-| G8_MAR_CH16  | 156.8000 | 156.8000 | -     | VHF Marítimo Canal 16 (Socorro e chamada)                           |
-| G8_MAR_CH70  | 156.5250 | 156.5250 | -     | VHF Marítimo Canal 70 (Chamada Seletiva Digital (DSC) para socorro) |
-| G8_MAR_CH13  | 156.6500 | 156.6500 | -     | VHF Marítimo Canal 13 (Navegação ponte-a-ponte)                     |
-| G8_MAR_CH06  | 156.3000 | 156.3000 | -     | VHF Marítimo Canal 6 (Segurança e coordenação)                      |
-| G8_MAR_CH09  | 156.4500 | 156.4500 | -     | VHF Marítimo Canal 9 (Chamada geral)                                |
-| G8_MAR_CH72  | 156.6250 | 156.6250 | -     | VHF Marítimo Canal 72 (Comunicação não comercial)                   |
+| Nome         | RX (MHz) | TX (MHz) | CTCSS | Comentário                                                                                        |
+| ------------ | -------- | -------- | ----- | ------------------------------------------------------------------------------------------------- |
+| G8_MAR_CH16  | 156.8000 | 156.8000 | -     | VHF Marítimo Canal 16 (Socorro e chamada)                                                         |
+| G8_MAR_CH70  | 156.5250 | 156.5250 | -     | VHF Marítimo Canal 70 (Chamada Seletiva Digital (DSC) para socorro)                               |
+| G8_MAR_CH13  | 156.6500 | 156.6500 | -     | VHF Marítimo Canal 13 (Navegação ponte-a-ponte)                                                   |
+| G8_MAR_CH06  | 156.3000 | 156.3000 | -     | VHF Marítimo Canal 6 (Segurança e coordenação)                                                    |
+| G8_MAR_CH09  | 156.4500 | 156.4500 | -     | VHF Marítimo Canal 9 (Chamada geral)                                                              |
+| G8_MAR_CH72  | 156.6250 | 156.6250 | -     | VHF Marítimo Canal 72 (Comunicação não comercial)                                                 |
+| G8_MAR_CH15  | 156.7500 | 156.7500 | -     | VHF Marítimo Canal 15 (Comunicações internas / uso entre embarcações de recreio (fora de portos)) |
 
 ⚠️ Só use G8_MAR_CH16 (156.8000 MHz) em emergências marítimas reais, pois é monitorado por autoridades.
 
