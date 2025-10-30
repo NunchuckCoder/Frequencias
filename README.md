@@ -264,6 +264,34 @@ Canais marítimos VHF para uso em emergências, especialmente relevantes em áre
 
 ---
 
+<h2> G9 – Aero (Escuta AM – Aviação Civil e Militar)</h2>
+
+Frequências recomendadas **apenas para receção (AM)** — **nunca transmitir**.  
+Inclui comunicações civis, militares e meteorológicas, ideais para monitorização e treino auditivo.
+
+| Nome           | RX (MHz) | Modulação  | Local / Operador                      | Comentário / Tipo de Comunicação                             |
+| -------------- | -------- | ---------- | ------------------------------------- | ------------------------------------------------------------ |
+| G9_LIS_TWR     | 118.100  | AM         | Torre Lisboa (LPPT)                   | Torre principal – comunicações com aeronaves                 |
+| G9_LIS_APP     | 119.100  | AM         | Lisboa Aproximação                    | Controlo de aproximações e saídas                            |
+| G9_PORTO_TWR   | 118.000  | AM         | Torre Porto (LPPR)                    | Torre principal – operações 24h                              |
+| G9_PORTO_APP   | 121.100  | AM         | Aproximação Porto                     | Aproximações e saídas                                        |
+| G9_FARO_TWR    | 118.200  | AM         | Torre Faro (LPFR)                     | Torre principal – Algarve                                    |
+| G9_FARO_APP    | 119.400  | AM         | Faro Aproximação / Partidas           | Controlo de tráfego                                          |
+| G9_SINTRA_TWR  | 122.100  | AM         | Base Aérea de Sintra (BA1)            | Torre militar                                                |
+| G9_MONTIJO_TWR | 134.100  | AM         | Base Aérea do Montijo (BA6)           | Torre militar                                                |
+| G9_TIRES_TWR   | 120.300  | AM         | Aeródromo de Cascais (Tires)          | Torre civil VFR                                              |
+| G9_TIRES_EMG   | 121.500  | AM         | Emergência Internacional (SOS)        | Frequência mundial de socorro aeronáutico – *somente escuta* |
+| G9_FIGOMAD     | 123.750  | AM         | Base Aérea de Figo Maduro (Lisboa)    | Operações militares (FAP)                                    |
+| G9_SAFETYCOM   | 122.505  | AM         | SAFETYCOM (aeródromos sem frequência) | Comunicação VFR genérica – apenas receção                    |
+| G9_CNOS_NAC    | 129.950  | AM         | CNOS (Carnaxide)                      | Coordenação aérea de emergência (Proteção Civil)             |
+
+- **Modulação:** AM (Amplitude Modulada)  
+- **Prioridade:** Escuta de tráfego civil, militar e de emergência  
+- **Legalidade:** O uso é **exclusivamente para receção**. A transmissão é **proibida por lei**.  
+- **Frequência de socorro:** 121.500 MHz é reservada **à emergência aeronáutica internacional** — escuta apenas.
+
+---
+
 <h2> 🧭 Dicas para Programação e Uso em Calamidades</h2>
 
 **Prioridade:** Sempre comece no simplex 145.500 (VHF) ou 433.500 (UHF) – "MAYDAY" ou "SOS" seguido de localização. Monitore 24/7.
