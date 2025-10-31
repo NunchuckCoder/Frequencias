@@ -36,24 +36,24 @@ Para gestão mais fácil no radio:
 
 Os canais PMR446 são de uso livre, de curto alcance (até 5–10 km em condições ideais), na banda UHF, amplamente utilizados para comunicações pessoais e de emergência na Europa. São canais simplex (sem offset) e usam FM estreito (NFM).
 
-| Nome        | RX/TX (MHz) | CTCSS | Indicativo | Comentário                |
-| ----------- | ----------- | ----- | ---------- | ------------------------- |
-| G1_PMR_CH01 | 446.00625   | -     | -          | -                         |
-| G1_PMR_CH02 | 446.01875   | -     | -          | -                         |
-| G1_PMR_CH03 | 446.03125   | -     | -          | Plano 3-3-3               |
-| G1_PMR_CH04 | 446.04375   | -     | -          | -                         |
-| G1_PMR_CH05 | 446.05625   | -     | -          | -                         |
-| G1_PMR_CH06 | 446.06875   | -     | -          | -                         |
-| G1_PMR_CH07 | 446.08125   | -     | -          | Rádio Natureza            |
-| G1_PMR_CH08 | 446.09375   | -     | -          | Canal de Emergência / DX  |
-| G1_PMR_CH09 | 446.10625   | -     | -          | -                         |
-| G1_PMR_CH10 | 446.11875   | -     | -          | -                         |
-| G1_PMR_CH11 | 446.13125   | -     | -          | -                         |
-| G1_PMR_CH12 | 446.14375   | -     | -          | Rede OÁSIS / ANARPT       |
-| G1_PMR_CH13 | 446.15625   | -     | -          | -                         |
-| G1_PMR_CH14 | 446.16875   | -     | -          | -                         |
-| G1_PMR_CH15 | 446.18125   | -     | -          | -                         |
-| G1_PMR_CH16 | 446.19375   | -     | -          | -                         |
+| Nome        | RX/TX (MHz) | CTCSS | Indicativo | Comentário                                          |
+| ----------- | ----------- | ----- | ---------- | --------------------------------------------------- |
+| G1_PMR_CH01 | 446.00625   | -     | -          | -                                                   |
+| G1_PMR_CH02 | 446.01875   | -     | -          | -                                                   |
+| G1_PMR_CH03 | 446.03125   | -     | -          | Plano 3-3-3                                         |
+| G1_PMR_CH04 | 446.04375   | -     | -          | -                                                   |
+| G1_PMR_CH05 | 446.05625   | -     | -          | -                                                   |
+| G1_PMR_CH06 | 446.06875   | -     | -          | -                                                   |
+| G1_PMR_CH07 | 446.08125   | -     | -          | Rádio Natureza  - Terás de usar o Tone 7 – 85,4 Hz  |
+| G1_PMR_CH08 | 446.09375   | -     | -          | Canal de Emergência / DX                            |
+| G1_PMR_CH09 | 446.10625   | -     | -          | -                                                   |
+| G1_PMR_CH10 | 446.11875   | -     | -          | -                                                   |
+| G1_PMR_CH11 | 446.13125   | -     | -          | -                                                   |
+| G1_PMR_CH12 | 446.14375   | -     | -          | Rede OÁSIS / ANARPT                                 |
+| G1_PMR_CH13 | 446.15625   | -     | -          | -                                                   |
+| G1_PMR_CH14 | 446.16875   | -     | -          | -                                                   |
+| G1_PMR_CH15 | 446.18125   | -     | -          | -                                                   |
+| G1_PMR_CH16 | 446.19375   | -     | -          | -                                                   |
 
 - **Detalhes**: 16 canais, espaçamento de 6,25 kHz, sem tom necessário. Ideais para coordenação local em emergências quando os repetidores não estão disponíveis. Usado por civis e grupos de emergência.
 - **Caso de Uso**: Comunicação de curto alcance com outros utilizadores PMR446 na sua cidade ou áreas próximas durante uma crise.
@@ -269,21 +269,26 @@ Canais marítimos VHF para uso em emergências, especialmente relevantes em áre
 Frequências recomendadas **apenas para receção (AM)** — **nunca transmitir**.  
 Inclui comunicações civis, militares e meteorológicas, ideais para monitorização e treino auditivo.
 
-| Nome           | RX (MHz) | Modulação  | Local / Operador                      | Comentário / Tipo de Comunicação                             |
-| -------------- | -------- | ---------- | ------------------------------------- | ------------------------------------------------------------ |
-| G9_LIS_TWR     | 118.100  | AM         | Torre Lisboa (LPPT)                   | Torre principal – comunicações com aeronaves                 |
-| G9_LIS_APP     | 119.100  | AM         | Lisboa Aproximação                    | Controlo de aproximações e saídas                            |
-| G9_PORTO_TWR   | 118.000  | AM         | Torre Porto (LPPR)                    | Torre principal – operações 24h                              |
-| G9_PORTO_APP   | 121.100  | AM         | Aproximação Porto                     | Aproximações e saídas                                        |
-| G9_FARO_TWR    | 118.200  | AM         | Torre Faro (LPFR)                     | Torre principal – Algarve                                    |
-| G9_FARO_APP    | 119.400  | AM         | Faro Aproximação / Partidas           | Controlo de tráfego                                          |
-| G9_SINTRA_TWR  | 122.100  | AM         | Base Aérea de Sintra (BA1)            | Torre militar                                                |
-| G9_MONTIJO_TWR | 134.100  | AM         | Base Aérea do Montijo (BA6)           | Torre militar                                                |
-| G9_TIRES_TWR   | 120.300  | AM         | Aeródromo de Cascais (Tires)          | Torre civil VFR                                              |
-| G9_TIRES_EMG   | 121.500  | AM         | Emergência Internacional (SOS)        | Frequência mundial de socorro aeronáutico – *somente escuta* |
-| G9_FIGOMAD     | 123.750  | AM         | Base Aérea de Figo Maduro (Lisboa)    | Operações militares (FAP)                                    |
-| G9_SAFETYCOM   | 122.505  | AM         | SAFETYCOM (aeródromos sem frequência) | Comunicação VFR genérica – apenas receção                    |
-| G9_CNOS_NAC    | 129.950  | AM         | CNOS (Carnaxide)                      | Coordenação aérea de emergência (Proteção Civil)             |
+| Nome           | RX (MHz) | Modulação  | Local / Operador                                | Comentário / Tipo de Comunicação                 |
+| -------------- | -------- | ---------- | ----------------------------------------------- | ------------------------------------------------ |
+| G9_LIS_TWR     | 118.100  | AM         | Torre Lisboa (LPPT)                             | Torre principal – comunicações com aeronaves     |
+| G9_LIS_APP     | 119.100  | AM         | Lisboa Aproximação                              | Controlo de aproximações e saídas                |
+| G9_PORTO_TWR   | 118.000  | AM         | Torre Porto (LPPR)                              | Torre principal – operações 24h                  |
+| G9_PORTO_APP   | 121.100  | AM         | Aproximação Porto                               | Aproximações e saídas                            |
+| G9_FARO_TWR    | 118.200  | AM         | Torre Faro (LPFR)                               | Torre principal – Algarve                        |
+| G9_FARO_APP    | 119.400  | AM         | Faro Aproximação / Partidas                     | Controlo de tráfego                              |
+| G9_SINTRA_TWR  | 122.100  | AM         | Base Aérea de Sintra (BA1)                      | Torre militar                                    |
+| G9_MONTIJO_TWR | 134.100  | AM         | Base Aérea do Montijo (BA6)                     | Torre militar                                    |
+| G9_TIRES_TWR   | 120.300  | AM         | Aeródromo de Cascais (Tires)                    | Torre civil VFR                                  |
+| G9_TIRES_EMG   | 121.500  | AM         | Emergência Internacional (SOS)                  | Frequência mundial de socorro aeronáutico        |
+| G9_FIGOMAD     | 123.750  | AM         | Base Aérea de Figo Maduro (Lisboa)              | Operações militares (FAP)                        |
+| G9_SAFETYCOM   | 122.505  | AM         | SAFETYCOM (aeródromos sem frequência)           | Comunicação VFR genérica – apenas receção        |
+| G9_CNOS_CARN   | 129.950  | AM         | CNOS (Carnaxide)                                | Coordenação aérea de emergência (Proteção Civil) |
+| G9_CNOS_BSVV   | 129.950  | AM         | CNOS (Beja, Santarém, Viana do Castelo, Viseu)  | Coordenação aérea de emergência (Proteção Civil) |
+| G9_CNOS_BEGL   | 129.950  | AM         | CNOS (Braga, Évora, Guarda, Leiria)             | Coordenação aérea de emergência (Proteção Civil) |
+| G9_CNOS_ABP    | 129.950  | AM         | CNOS (Aveiro, Bragança, Portalegre)             | Coordenação aérea de emergência (Proteção Civil) |
+| G9_CNOS_CBPS   | 129.950  | AM         | CNOS (Castelo Branco, Porto, Setúbal)           | Coordenação aérea de emergência (Proteção Civil) |
+| G9_CNOS_CFLV   | 129.950  | AM         | CNOS (Coimbra, Faro, Lisboa, Vila Real)         | Coordenação aérea de emergência (Proteção Civil) |
 
 - **Modulação:** AM (Amplitude Modulada)  
 - **Prioridade:** Escuta de tráfego civil, militar e de emergência  
