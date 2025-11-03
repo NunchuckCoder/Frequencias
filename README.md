@@ -1,17 +1,17 @@
 <h1 align="center">Plano de Frequências de Emergência<br>Comunicação Segura e Regional em Portugal</h1>
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/chirp-3670A0?style=for-the-badge&logo=chirp&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" />
-</p>
+</div><br>
 
-<p align="center">Este ficheiro apresenta uma compilação estruturada de frequências rádio destinadas à comunicação em situações de emergência. Abrange canais de uso livre, repetidores regionais e nacionais, bem como frequências simplex e marítimas, permitindo uma coordenação eficaz em todo o território português. Inclui ainda orientações técnicas e legais para garantir um uso responsável e eficiente das comunicações.</p>
+<div align="center">Este ficheiro apresenta uma compilação estruturada de frequências rádio destinadas à comunicação em situações de emergência. Abrange canais de uso livre, repetidores regionais e nacionais, bem como frequências simplex e marítimas, permitindo uma coordenação eficaz em todo o território português. Inclui ainda orientações técnicas e legais para garantir um uso responsável e eficiente das comunicações.</div><br>
 
-<p align="center">
-  <img src="https://github.com/NunchuckCoder/Frequencias/blob/main/cartoes.png?raw=true" />
-</p>
+<div align="center">
+  <img src="https://github.com/NunchuckCoder/Frequencias/blob/main/cartoes.png?raw=true" alt="Cartões de Frequências de Emergência" />
+</div>
 
 ---
 
@@ -136,7 +136,7 @@ Os canais LPD433 são de uso livre, de baixa potência, na banda UHF (433 MHz). 
 | G2_LPD_CH68 | 434.7500    | -     | -          | -          |
 | G2_LPD_CH69 | 434.7750    | -     | -          | -          |
 
-- **Detalhes**: 69 canais, espaçamento de 25 kHz, NFM. Sem tom necessário. A baixa potência (normalmente 10 mW) limita o alcance, mas garante conformidade com as regulamentações.
+- **Detalhes**: 69 canais, espaçamento de 12,5 kHz, NFM. Sem tom necessário. A baixa potência (normalmente 10 mW) limita o alcance, mas garante conformidade com as regulamentações.
 - **Caso de Uso**: Alternativa ao PMR446 em áreas congestionadas ou para comunicações locais de emergência.
 
 ---
