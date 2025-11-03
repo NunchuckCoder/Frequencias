@@ -179,7 +179,7 @@ Repetidores VHF e UHF selecionados na região Norte para uso em caso de estares 
 | G4_BRAGA  | 145.7000 | 145.1000 | 123.0 | CQ0VBRG    | Serra Sta Marta - Braga         |
 | G4_AREST1 | 145.7250 | 145.1250 | 114.8 | CQ0VAR     | Serra do Arestal                |
 | G4_ARGA2  | 438.6500 | 431.0500 | 67.0  | CQ0USA     | Serra d'Arga - Viana do Castelo |
-| G4_BRAG2  | 438.8000 | 438.8000 | 67.0  | CQ0UBRG    | Serra Sta Marta - Braga         |
+| G4_BRAG2  | 438.8000 | 431.2000 | 67.0  | CQ0UBRG    | Serra Sta Marta - Braga         |
 
 ⚠️ G4_ARGA cobre noroeste (incêndios comuns)
 
