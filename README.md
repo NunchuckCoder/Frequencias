@@ -283,12 +283,12 @@ Inclui comunicações civis, militares e meteorológicas, ideais para monitoriza
 | G9_TIRES_EMG   | 121.500  | AM         | Emergência Internacional (SOS)                  | Frequência mundial de socorro aeronáutico        |
 | G9_FIGOMAD     | 123.750  | AM         | Base Aérea de Figo Maduro (Lisboa)              | Operações militares (FAP)                        |
 | G9_SAFETYCOM   | 122.505  | AM         | SAFETYCOM (aeródromos sem frequência)           | Comunicação VFR genérica – apenas receção        |
-| G9_CNOS_CARN   | 129.950  | AM         | CNOS (Carnaxide)                                | Coordenação aérea de emergência (Proteção Civil) |
-| G9_CNOS_BSVV   | 129.950  | AM         | CNOS (Beja, Santarém, Viana do Castelo, Viseu)  | Coordenação aérea de emergência (Proteção Civil) |
-| G9_CNOS_BEGL   | 129.950  | AM         | CNOS (Braga, Évora, Guarda, Leiria)             | Coordenação aérea de emergência (Proteção Civil) |
-| G9_CNOS_ABP    | 129.950  | AM         | CNOS (Aveiro, Bragança, Portalegre)             | Coordenação aérea de emergência (Proteção Civil) |
-| G9_CNOS_CBPS   | 129.950  | AM         | CNOS (Castelo Branco, Porto, Setúbal)           | Coordenação aérea de emergência (Proteção Civil) |
-| G9_CNOS_CFLV   | 129.950  | AM         | CNOS (Coimbra, Faro, Lisboa, Vila Real)         | Coordenação aérea de emergência (Proteção Civil) |
+| G9_CNOS_CARN   | 123.200  | AM         | CNOS (Carnaxide)                                | Coordenação aérea de emergência (Proteção Civil) |
+| G9_CNOS_BSVV   | 123.400  | AM         | CNOS (Beja, Santarém, Viana do Castelo, Viseu)  | Coordenação aérea de emergência (Proteção Civil) |
+| G9_CNOS_BEGL   | 123.450  | AM         | CNOS (Braga, Évora, Guarda, Leiria)             | Coordenação aérea de emergência (Proteção Civil) |
+| G9_CNOS_ABP    | 129.700  | AM         | CNOS (Aveiro, Bragança, Portalegre)             | Coordenação aérea de emergência (Proteção Civil) |
+| G9_CNOS_CBPS   | 129.800  | AM         | CNOS (Castelo Branco, Porto, Setúbal)           | Coordenação aérea de emergência (Proteção Civil) |
+| G9_CNOS_CFLV   | 123.550  | AM         | CNOS (Coimbra, Faro, Lisboa, Vila Real)         | Coordenação aérea de emergência (Proteção Civil) |
 
 - **Modulação:** AM (Amplitude Modulada)  
 - **Prioridade:** Escuta de tráfego civil, militar e de emergência  
